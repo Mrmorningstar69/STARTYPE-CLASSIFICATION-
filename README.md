@@ -25,14 +25,13 @@ The dataset includes the following variables for each star:
 
 ## Requirements
 - Python 3.x
-- Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scipy (for specific versions, see `requirements.txt`).
+- Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scipy.
 
 ## Installation
 To set up the project environment:
 ```bash
 git clone https://github.com/TirtheshJani/star-type-classification.git
 cd star-type-classification
-pip install -r requirements.txt
 ```
 
 ## Usage
