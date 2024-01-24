@@ -33,10 +33,11 @@ To set up the project environment:
 git clone https://github.com/TirtheshJani/star-type-classification.git
 cd star-type-classification
 pip install -r requirements.txt
+```
 
 ## Usage
 To run the Jupyter Notebook and view the data analysis and classification process, execute the following command in your terminal:
 
 ```bash
 jupyter notebook Startypeclassificationproject.ipynb
-
+```
